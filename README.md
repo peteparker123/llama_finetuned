@@ -1,6 +1,6 @@
 # Medical Bot - Llama 2 Fine-Tuned AI Assistant
 
-A specialized medical AI assistant built by fine-tuning Llama-2-7b using QLoRA and SFT (Supervised Fine-Tuning) for medical question answering.
+A specialized medical AI assistant built by fine-tuning Llama-2-7b using QLoRA and SFT (Supervised Fine-Tuning) for medical question answering using hugging face transformers
 
 ## Overview
 
